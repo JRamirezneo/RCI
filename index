@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iframe Example</title>
+</head>
+<body>
+    <h1>Contenido principal</h1>
+    <p>Aquí está el contenido principal de tu página.</p>
+    
+    <iframe src="https://www.ejemplo.com" width="600" height="400" frameborder="0"></iframe>
+    
+    <p>Más contenido principal después del iframe.</p>
+</body>
+</html>
